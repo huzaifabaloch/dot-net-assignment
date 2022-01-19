@@ -51,7 +51,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="readme.txt" />
+    <None Include="readme.md" />
     <Content Include="RootFolder\Folder1\folder1File.txt" />
     <Content Include="RootFolder\Folder1\Folder2\folder2File.txt" />
     <Content Include="RootFolder\Folder1\Folder2\Folder3\Folder4\folder4File.txt" />
