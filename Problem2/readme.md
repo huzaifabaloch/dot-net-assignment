@@ -42,10 +42,10 @@ I divided this problem into 3 parts:
 ### =======
 
       ->RootFolder
-	         -> rootFile1.txt
+	             -> rootFile1.txt
                  -> rootFile2.txt
                  -> Folder1    // Root folder have 2 folders (Folder1 and Folder2) (not work)
-		 -> Folder2    // Root folder have 2 folders (Folder1 and Folder2) (not work)
+		     -> Folder2    // Root folder have 2 folders (Folder1 and Folder2) (not work)
 							
 
 
