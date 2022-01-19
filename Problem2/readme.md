@@ -1,5 +1,5 @@
 ## Problem 2
-==========
+
 Write a program, where you would create similar structure. Pass this structure into your own 
 created method and calculate the depth of provided structure. Main requirement to complete this 
 task: use recursion.
@@ -29,7 +29,7 @@ I divided this problem into 3 parts:
 					             -> folder4file.txt
 					             -> Folder5  (6)
 
-	#### The depth of this structure is 6	
+	 The depth of this structure is 6	
 
 
 ### This folder structure is added in the Problem2 folder, namely RootFolder.
@@ -42,9 +42,9 @@ I divided this problem into 3 parts:
 ### =======
 
       ->RootFolder
-	         -> rootFile1.txt
-             -> rootFile2.txt
-             -> Folder1    // Root folder have 2 folders (Folder1 and Folder2) (not work)
+	             -> rootFile1.txt
+                 -> rootFile2.txt
+                 -> Folder1    // Root folder have 2 folders (Folder1 and Folder2) (not work)
 		     -> Folder2    // Root folder have 2 folders (Folder1 and Folder2) (not work)
 							
 
